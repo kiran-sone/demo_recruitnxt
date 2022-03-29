@@ -1,0 +1,9 @@
+/* Ear Science CSS Files */
+
+@import url("bootstrap.css"); /* css by bootstrap */
+@import url("style.css"); /* used to load font from external source like Google font */
+@import url("../font-awesome/css/font-awesome.min.css"); /* used to load font awesome icons */
+@import url("menu/menu.css"); /* css Menu */
+@import url("../icons/flaticon.css"); /* used to load font awesome icons */
+
+
